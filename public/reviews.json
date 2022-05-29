@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "website": "hildegard.org",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1vgdYWHDUkyYYYxV4RV78Q4AHDtagK2GRQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "website": "anastasia.net",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxA5cTf-5dh5Eusm0puHbvAhOrCRPtckzjA&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "website": "ramiro.info",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJqngNJ42uWE0Zy6S6rHTuW8pn6p-cuogyQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "website": "kale.biz",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV610YnaFfeZH8HA6x1dXRxsKQ5I40A8WAZQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "website": "demarco.info",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIbv-7JSgC23hcGq8qDRBpFzdMBEw8urHdQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "website": "ola.org",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhfvzt8-RiQ1YRTCWZFPNhrA4CcSW4A8Gtg&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "email": "Telly.Hoeger@billy.biz",
+        "website": "elvis.io",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QR4UZof_8M7qVuVn7HXjiG2EyMPjkKjElQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "email": "Sherwood@rosamond.me",
+        "website": "jacynthe.com",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCKq1XnPYYDaUIlwlsvmLPZ-9-rdK28RToA&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "email": "Chaim_McDermott@dana.io",
+        "website": "conrad.com",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGKbAUiikPB-94tRdwow9Xp6YAND2XgNTIg&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu." 
+      },
+      {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "email": "Rey.Padberg@karina.biz",
+        "website": "ambrose.net",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGiJ_tIEbFuvt7J7d17ldDOetn-PZteEIDQ&usqp=CAU",
+        "review":"Meena trys to eradicate misconceptions and superstitions from the society and create social awareness about different social phenomenas with occasional help from a wide variety of characters including her parrot companion Mithu."        
+      }
+]
