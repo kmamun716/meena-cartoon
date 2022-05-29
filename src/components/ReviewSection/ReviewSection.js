@@ -9,13 +9,15 @@ const ReviewSection = () => {
     const navigate = useNavigate();
     return (
         <div>
-            <h1>Viewer's Review: {reviews.length}</h1>
-            <div className='d-flex'>
+            <h1 className='text-center text-decoration-underline'>Viewer's Review: {reviews.length}</h1>
+            <div className='d-flex my-2'>
                 {
                     reviews.slice(0,6).map(review=><SingleReview key={review.id} review={review} />)
                 }
             </div>
-            <Button variant='primary' onClick={()=>navigate('/reviews')}>View All Reviews</Button>
+            <div className="d-flex justify-content-center">
+                <Button size="lg" variant='primary' onClick={()=>navigate('/reviews')}>View All Reviews</Button>
+            </div>
         </div>
     );
 };
