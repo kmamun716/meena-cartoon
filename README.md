@@ -4,6 +4,8 @@ This project [Live Site Link](https://github.com/facebook/create-react-app).
 
 ## Worked in this site:
 
-**In the project directory, you can run:**
-
-- ajf
+- Added Rechart
+- Added Slider
+- worked with bootstrap
+- also work with React Router
+- live site deploy in netlify
