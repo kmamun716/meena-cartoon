@@ -1,6 +1,6 @@
 # Meena Cartoon Review Site
 
-This project [Live Site Link](https://github.com/facebook/create-react-app).
+This project [Live Site Link](https://meenagomeena.netlify.app/).
 
 ## Worked in this site:
 
