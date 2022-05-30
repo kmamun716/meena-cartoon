@@ -17,6 +17,11 @@ const Header = () => {
                 </LinkContainer>
             </Nav.Item>
             <Nav.Item>
+                <LinkContainer to='/dashboard'>
+                    <Nav.Link>Dashboard</Nav.Link>
+                </LinkContainer>
+            </Nav.Item>
+            <Nav.Item>
                 <LinkContainer to='/blog'>
                     <Nav.Link>Blogs</Nav.Link>
                 </LinkContainer>

@@ -9,10 +9,10 @@ const ReviewSection = () => {
     const navigate = useNavigate();
     return (
         <div>
-            <h1 className='text-center text-decoration-underline'>Viewer's Review: {reviews.length}</h1>
-            <div className='d-flex my-2'>
+            <h1 className='text-center'>Viewer's Review({reviews.slice(0,3).length})</h1>
+            <div className='d-flex justify-content-center my-2'>
                 {
-                    reviews.slice(0,6).map(review=><SingleReview key={review.id} review={review} />)
+                    reviews.slice(0,3).map(review=><SingleReview key={review.id} review={review} />)
                 }
             </div>
             <div className="d-flex justify-content-center">
