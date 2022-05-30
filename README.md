@@ -6,4 +6,4 @@ This project [Live Site Link](https://github.com/facebook/create-react-app).
 
 **In the project directory, you can run:**
 
-> ajf
+- ajf
