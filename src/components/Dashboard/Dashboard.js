@@ -1,5 +1,5 @@
 import React from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 import useDataChart from '../../hooks/useDataChart';
 
 const Dashboard = () => {
